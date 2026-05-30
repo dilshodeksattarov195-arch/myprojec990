@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysecrypt",
+        "uuid": 9755460,
+        "checksum": "lke5m"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
